@@ -1,0 +1,6 @@
+/home/ceto/Projects/Test002Widgets/Test002Widgets/bin/Debug/Test002Widgets.exe
+/home/ceto/Projects/Test002Widgets/Test002Widgets/bin/Debug/Test002Widgets.pdb
+/home/ceto/Projects/Test002Widgets/Test002Widgets/obj/x86/Debug/Test002Widgets.csprojAssemblyReference.cache
+/home/ceto/Projects/Test002Widgets/Test002Widgets/obj/x86/Debug/Test002Widgets.exe
+/home/ceto/Projects/Test002Widgets/Test002Widgets/obj/x86/Debug/Test002Widgets.pdb
+/home/ceto/Projects/Test002Widgets/Test002Widgets/obj/x86/Debug/Test002Widgets.csproj.CoreCompileInputs.cache

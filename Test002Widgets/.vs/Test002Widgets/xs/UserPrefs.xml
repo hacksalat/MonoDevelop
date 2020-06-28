@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{679D1A86-ABE3-4FD9-B45C-7213E0108313}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test002Widgets PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test002Widgets/Program.cs">
+    <Files>
+      <File FileName="Test002Widgets/Program.cs" Line="24" Column="15" />
+      <File FileName="Test002Widgets/OlliTextWidget.cs" Line="2" Column="25" />
+      <File FileName="Test002Widgets/MainWindow.cs" Line="21" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test002Widgets" expanded="True">
+            <Node name="Test002Widgets" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
